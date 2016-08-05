@@ -1,0 +1,125 @@
+/* Inserta tu codigo aqui */
+*{
+	box-sizing: border-box;
+}
+.fondo1{
+	background-image: url("../img/dance_1.jpg");
+	height: 480px;
+}
+.studio{
+	font-size: 70px;
+	font-weight: bold;
+	color:#CECEF6;
+	padding-top: 25%;
+	padding-left: 50%;
+}
+.parrafo{
+	color:#CECEF6;
+	padding-top: 8%;
+	padding-left:50%;
+}
+.boton1{
+	width: 50%;
+	height: 40px;
+	background-color:#060D16;
+	margin-top: 8%;
+	margin-left:50%;
+	border-radius:5px; 
+}
+.inscribete,.clases,.est-bot3{
+	color:#CECEF6;
+	font-size:15;
+	font-weight: bold;
+}
+.offset-3 {
+	 margin-left: 24.9999999999%;
+}
+.offset-2{
+	margin-left:  16.6666666666%;
+}
+.fondo2{
+	background-image: url("../img/textura_2.jpg");
+	
+}
+.parrafo2{
+	padding-top:10%;
+	font-size: 22px;
+	color:#0B0B61;
+}
+.decoracion-1{
+	width: 30%;
+
+}
+.boton2{
+	width: 50%;
+	height: 60px;
+	margin-bottom:10%;
+	background-color:#192951;
+	border-radius: 5px;
+}
+.clases,.est-bot3{
+	font-size: 20px;
+}
+.fondo3{
+	background-image: url("../img/instructor_4.jpg");
+	height: 330px;	
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.fondo4{
+	background-image: url("../img/profesor_9.jpg");	
+	height:330px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.border{
+	border:2px solid #192951;
+	height:330px;
+}
+.cont2{
+	position: relative;;
+}
+.boton3{
+	width: 45%;
+	height: 80px;
+	position:absolute;
+	background-color:#192951;
+	border-radius: 5px;
+	left: 28%;
+	bottom:0%;
+}
+.parrafo3{
+	padding-top:10%;
+	padding-bottom: 10%;
+	font-size:40px;
+	font-family: "Latolight";
+	font-style:italic;
+	font-weight: bold;
+	color:#383838;
+}
+.fondo5{
+	background-color:#192951;
+}
+.parrafo4{
+	padding:10% 25% 5% 10%;
+	font-size:15px; 
+	text-align:justify;
+	color:#BBBEBE;
+}
+.titular-4{
+	color:#BBBEBE;
+	font-size:25px;
+	font-weight: bold;
+	padding:5% 25% 0% 10%;
+}
+.parrafo5{
+	color:#BBBEBE;
+	font-size:17px;
+	padding:2% 65% 5% 10%; 
+
+}
+.mapa{
+	padding-top: 10%;
+	padding-bottom:10%;
+}
+
